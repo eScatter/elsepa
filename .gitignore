@@ -1,0 +1,11 @@
+# vim
+.*.swp
+*~
+
+# object files
+*.o
+
+# executables
+elscatm
+elscata
+
