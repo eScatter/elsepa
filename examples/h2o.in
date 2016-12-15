@@ -1,0 +1,11 @@
+Water (vapour)                        name of the molecule
+3                                     number of atoms in a molecule
+8     0.0E+0     0.0E+0     0.0E+0    oxygen, coordinates (cm)
+1  9.5720E-9     0.0E+0     0.0E+0    hydrogen, coordinates (cm)
+1 -2.3999E-9  9.2663E-9     0.0E+0    hydrogen, coordinates (cm)
+1                                     MEXCH
+2  1.457E-24                          MCPOL, mol. polarizab. (cm**3)
+1  2.00  6.20                         MABS, Aabs, Delta (eV)
+-1                                    electron (-1) / positron (+1)
+100                                   kinetic energy (eV)
+200                                   optionally more energies ...
