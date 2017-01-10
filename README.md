@@ -87,5 +87,5 @@ as well as caching of previous results.
 ## CITATION
 
 If you use ELSEPA in your research, please cite this paper:
-- Sablat, Jablonski and Powell, Computer Physics Communications, Volume 165, Issue 2, 15 January 2005, Pages 157–190, [sciencedirect](http://www.sciencedirect.com/science/article/pii/S0010465504004795)
+- Salvat, Jablonski and Powell, Computer Physics Communications, Volume 165, Issue 2, 15 January 2005, Pages 157–190, [sciencedirect](http://www.sciencedirect.com/science/article/pii/S0010465504004795)
 
