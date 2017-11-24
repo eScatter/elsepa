@@ -59,6 +59,7 @@ projectile.
 ## OPERATION INSTRUCTIONS
 - Inspect the `Makefile` for possible settings (compiler choice, flags).
 - Build `ELSEPA` by running `make`.
+- Optionally, install `ELSEPA` by running `make install`
 - Make the files in the `data` directory findable by setting the `ELSEPA_DATA`
 environment variable. For example, run the H<sub>2</sub>O example by doing:
 
